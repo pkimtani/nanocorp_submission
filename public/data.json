@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "name": "Checked short dress",
+    "price": 24.99,
+    "discount_price": 12.79,
+    "discount_text": "50% Off*",
+    "images": [
+      {
+        "src": "public/images/shop/dress/1.jpg"
+      },
+      {
+        "src": "public/images/shop/dress/1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Slim Fit Chinos",
+    "price": 39.99,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/pants/1-1.jpg"
+      },
+      {
+        "src": "public/images/shop/pants/1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dark Brown Boots",
+    "price": 49,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/shoes/1-1.jpg"
+      },
+      {
+        "src": "public/images/shop/shoes/1-2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Light Blue Denim Dress",
+    "price": 19.95,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/dress/2.jpg"
+      },
+      {
+        "src": "public/images/shop/dress/2-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Unisex Sunglasses",
+    "price": 19.99,
+    "discount_price": 11.99,
+    "discount_text": "Sale!",
+    "images": [
+      {
+        "src": "public/images/shop/sunglasses/1.jpg"
+      },
+      {
+        "src": "public/images/shop/sunglasses/1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Blue Rounded Neck T-shirt",
+    "price": 9.99,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/tshirts/1.jpg"
+      },
+      {
+        "src": "public/images/shop/tshirts/1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Silver Chrome Watch",
+    "price": 129.99,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/watches/1.jpg"
+      },
+      {
+        "src": "public/images/shop/watches/1-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Men Grey Casual Shoes",
+    "price": 45.99,
+    "discount_price": 39.49,
+    "discount_text": "Sale!",
+    "images": [
+      {
+        "src": "public/images/shop/shoes/2.jpg"
+      },
+      {
+        "src": "public/images/shop/shoes/2-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "This is 3rd Dress",
+    "price": 30.00,
+    "discount_price": 15,
+    "discount_text": "50% Off*",
+    "images": [
+      {
+        "src": "public/images/shop/dress/3.jpg"
+      },
+      {
+        "src": "public/images/shop/dress/3-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Unisex Dark Sunglasses",
+    "price": 19.99,
+    "discount_price": 11.99,
+    "discount_text": "Sale!",
+    "images": [
+      {
+        "src": "public/images/shop/sunglasses/2.jpg"
+      },
+      {
+        "src": "public/images/shop/sunglasses/2-1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Dark Rounded Neck T-shirt",
+    "price": 12.99,
+    "discount_price": 0,
+    "discount_text": 0,
+    "images": [
+      {
+        "src": "public/images/shop/tshirts/4.jpg"
+      },
+      {
+        "src": "public/images/shop/tshirts/4-1.jpg"
+      }
+    ]
+  }
+]
